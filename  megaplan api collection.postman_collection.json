@@ -116,12 +116,12 @@
 					"urlencoded": [
 						{
 							"key": "username",
-							"value": "Exploratory2@1.1",
+							"value": "user2",
 							"type": "text"
 						},
 						{
 							"key": "password",
-							"value": "Exploratory2@1.1",
+							"value": "password",
 							"type": "text"
 						},
 						{
