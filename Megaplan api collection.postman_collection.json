@@ -1,7 +1,7 @@
 {
 	"info": {
-		"_postman_id": "084943eb-1d75-4ea5-ba0f-483aa7578427",
-		"name": "Megaplan api collection",
+		"_postman_id": "9bd5efc0-e4c0-4260-ab57-016faf6d875a",
+		"name": "Megaplan api collection Copy 3",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
@@ -44,12 +44,12 @@
 					"urlencoded": [
 						{
 							"key": "username",
-							"value": "Exploratory1@1.1",
+							"value": "user",
 							"type": "text"
 						},
 						{
 							"key": "password",
-							"value": "Exploratory1@1.1",
+							"value": "password",
 							"type": "text"
 						},
 						{
